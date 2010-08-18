@@ -6,7 +6,7 @@ end.flatten
 
 spec = Gem::Specification.new do |s|
   s.name              = "open_market"
-  s.version           = "1.0"
+  s.version           = "1.1"
   s.author            = "Aleksey Gureiev"
   s.email             = "spyromus@noizeramp.com"
   s.homepage          = ""
