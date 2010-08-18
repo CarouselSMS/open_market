@@ -17,19 +17,19 @@ Installation
 Usage
 =====
 
-  om = OpenMarket::Base.new('xxx-xxx-xxx-xxxxx', '<your_account_password>')
+    om = OpenMarket::Base.new('xxx-xxx-xxx-xxxxx', '<your_account_password>')
 
-  # Looking up details on the phone number
-  res = om.preview('+16123327465')
-  if res.success?
-    res.destination         # hash of destination details
-    res.operator            # hash of operator details
-    res.location            # hash of geographical data
-  else
-    res.error[:code]        # error code
-    res.error[:description] # details error description
-    res.error[:resolution]  #
-  end
+    # Looking up details on the phone number
+    res = om.preview('+16123327465')
+    if res.success?
+      res.destination         # hash of destination details
+      res.operator            # hash of operator details
+      res.location            # hash of geographical data
+    else
+      res.error[:code]        # error code
+      res.error[:description] # details error description
+      res.error[:resolution]  #
+    end
 
 
 License
