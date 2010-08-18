@@ -1,10 +1,10 @@
-Open Market integration kit
+OpenMarket integration kit
 ===========================
 
-Open Market integration kit is intended to help working with the Open Market API
+OpenMarket integration kit is intended to help working with the OpenMarket API
 from your Ruby applications.
 
-To use the kit, you need to be a registered user of Open Market (http://openmarket.com)
+To use the kit, you need to be a registered user of OpenMarket (http://openmarket.com)
 and have Account ID and Account Password.
 
 
