@@ -5,7 +5,6 @@ module OpenMarket
 
     def initialize(xml)
       @doc = REXML::Document.new(xml)
-      puts xml
       
       get_error
       get_destination
