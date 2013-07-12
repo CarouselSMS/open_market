@@ -35,5 +35,6 @@ Usage
 License
 =======
 
-OpenMarket Integration Kit is Copyright © 2010 [Aleksey Gureiev](mailto:spyromus@noizeramp.com) and [Recess Mobile](http://recessmobile.com/).
+OpenMarket Integration Kit is Copyright © 2013 [Aleksey Gureiev](mailto:spyromus@noizeramp.com) and [Recess Mobile](http://recess.im/).
+
 It is free software, and may be redistributed under the terms specified in the MIT-LICENSE file.
